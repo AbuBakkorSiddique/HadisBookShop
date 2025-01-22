@@ -1,0 +1,603 @@
+@media (min-width:1200px) {
+    .CatagoryTwo{
+        height:100vh;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        font-family: 'Noto Serif Bengali', sans-serif;
+    }
+
+    .CatagoryTwo_one{
+        height:30%;
+        width:100%;
+ 
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        gap:2vh;
+        font-family: 'Noto Serif Bengali', sans-serif;
+
+    }
+    .CatagoryTwo_one_p{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+
+    }
+    .CatagoryTwo_two{
+        height:60%;
+        width:100%;
+    
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        
+    }
+
+    .CatagoryTwo_two_Mian{
+        height:80%;
+        width:70%;
+   
+    }
+    .CatagoryTwo_two_Mian_firstRow{
+        height:50%;
+        width:100%;
+        display:flex;
+        justify-content:space-around;
+        align-items:center;
+   
+
+    }
+
+/*----------- cartagory feature section --------*/ 
+    .CatagoryFeature{
+        height:80%;
+        width:22%;
+      
+        display:flex;
+        flex-direction:column;
+        gap:2vh;
+        border-radius:5px;
+        padding:2px;
+
+    }
+
+    .CatagoryFeature:hover {
+        color:#14923e;
+    }
+    .CatagoryFeature:hover .CatagoryFeature_firstRow_clipPath {
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        background-color:#14923e;
+        padding:10px;
+        color:white;
+    }
+    .CatagoryFeature_firstRow{
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+        padding-left:5px;
+        padding-top:1px;
+    }
+    .CatagoryFeature_firstRow_clipPath{
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        background-color:#e0e7e2;
+        padding:10px;
+    }
+
+
+
+
+
+
+
+
+
+    .CatagoryTwo_two_Mian_secondRow{
+        height:50%;
+        width:100%;
+        display:flex;
+        justify-content:space-around;
+        align-items:center;
+ 
+
+    }
+    .CatagoryTwo_three{
+        height:10%;
+        width:100%;
+  
+        display:flex;
+        justify-content:center;
+        align-items:center;
+    }
+}
+
+
+/*----- Laptop View -------*/
+@media (min-width:993px) and (max-width:1199px) {
+    .CatagoryTwo{
+        height:100vh;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        font-family: 'Noto Serif Bengali', sans-serif;
+    }
+
+    .CatagoryTwo_one{
+        height:30%;
+        width:100%;
+       
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        gap:2vh;
+        font-family: 'Noto Serif Bengali', sans-serif;
+
+    }
+    .CatagoryTwo_one_p{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+
+    }
+    .CatagoryTwo_two{
+        height:60%;
+        width:100%;
+
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        
+    }
+
+    .CatagoryTwo_two_Mian{
+        height:90%;
+        width:85%;
+
+    }
+    .CatagoryTwo_two_Mian_firstRow{
+        height:50%;
+        width:100%;
+        display:flex;
+        justify-content:space-around;
+        align-items:center;
+ 
+
+    }
+
+/*----------- cartagory feature section --------*/ 
+    .CatagoryFeature{
+        height:60%;
+        width:22%;
+      
+        display:flex;
+        flex-direction:column;
+        gap:2vh;
+        border-radius:5px;
+        padding:2px;
+
+    }
+
+    .CatagoryFeature:hover {
+        color:#14923e;
+    }
+    .CatagoryFeature:hover .CatagoryFeature_firstRow_clipPath {
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        background-color:#14923e;
+        padding:10px;
+        color:white;
+    }
+    .CatagoryFeature_firstRow{
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+        padding-left:5px;
+        padding-top:1px;
+    }
+    .CatagoryFeature_firstRow_clipPath{
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        background-color:#e0e7e2;
+        padding:10px;
+    }
+
+
+
+
+
+
+
+
+
+    .CatagoryTwo_two_Mian_secondRow{
+        height:50%;
+        width:100%;
+        display:flex;
+        justify-content:space-around;
+        align-items:center;
+
+
+    }
+    .CatagoryTwo_three{
+        height:10%;
+        width:100%;
+  
+        display:flex;
+        justify-content:center;
+        align-items:center;
+    }
+}
+
+/*----------Big  tablet view --------*/
+@media (min-width:769px) and (max-width:992px) {
+    .CatagoryTwo{
+        height:100vh;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        font-family: 'Noto Serif Bengali', sans-serif;
+    }
+
+    .CatagoryTwo_one{
+        height:30%;
+        width:100%;
+
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        gap:2vh;
+        font-family: 'Noto Serif Bengali', sans-serif;
+
+    }
+    .CatagoryTwo_one_p{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+
+    }
+    .CatagoryTwo_two{
+        height:60%;
+        width:100%;
+
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        
+    }
+
+    .CatagoryTwo_two_Mian{
+        height:90%;
+        width:90%;
+
+    }
+    .CatagoryTwo_two_Mian_firstRow{
+        height:50%;
+        width:100%;
+        display:flex;
+        justify-content:space-around;
+        align-items:center;
+   
+
+    }
+
+/*----------- cartagory feature section --------*/ 
+    .CatagoryFeature{
+        height:60%;
+        width:22%;
+      
+        display:flex;
+        flex-direction:column;
+        gap:2vh;
+        border-radius:5px;
+        padding:2px;
+
+    }
+
+    .CatagoryFeature:hover {
+        color:#14923e;
+    }
+    .CatagoryFeature:hover .CatagoryFeature_firstRow_clipPath {
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        background-color:#14923e;
+        padding:10px;
+        color:white;
+    }
+    .CatagoryFeature_firstRow{
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+        padding-left:5px;
+        padding-top:1px;
+    }
+    .CatagoryFeature_firstRow_clipPath{
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        background-color:#e0e7e2;
+        padding:10px;
+    }
+
+
+
+
+
+
+
+
+
+    .CatagoryTwo_two_Mian_secondRow{
+        height:50%;
+        width:100%;
+        display:flex;
+        justify-content:space-around;
+        align-items:center;
+
+
+    }
+    .CatagoryTwo_three{
+        height:10%;
+        width:100%;
+
+        display:flex;
+        justify-content:center;
+        align-items:center;
+    }
+}
+/*---------- tablet -----------*/
+@media (min-width:601px) and (max-width:768px) {
+    .CatagoryTwo{
+        height:140vh;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        font-family: 'Noto Serif Bengali', sans-serif;
+        text-align:center;
+    }
+
+    .CatagoryTwo_one{
+        height:20%;
+        width:100%;
+  
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        gap:2vh;
+        font-family: 'Noto Serif Bengali', sans-serif;
+
+    }
+    .CatagoryTwo_one_p{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+
+    }
+    .CatagoryTwo_two{
+        height:60%;
+        width:100%;
+ 
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        
+    }
+
+    .CatagoryTwo_two_Mian{
+        height:90%;
+        width:90%;
+ 
+    }
+    .CatagoryTwo_two_Mian_firstRow{
+        height:60%;
+        width:100%;
+        display:flex;
+        justify-content:space-around;
+        align-items:center;
+
+        flex-direction:row;
+        flex-wrap:wrap;
+
+    }
+
+/*----------- cartagory feature section --------*/ 
+    .CatagoryFeature{
+        height:40%;
+        width:40%;
+      
+        display:flex;
+        flex-direction:column;
+        gap:2vh;
+        border-radius:5px;
+        padding:2px;
+
+    }
+
+    .CatagoryFeature:hover {
+        color:#14923e;
+    }
+    .CatagoryFeature:hover .CatagoryFeature_firstRow_clipPath {
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        background-color:#14923e;
+        padding:10px;
+        color:white;
+    }
+    .CatagoryFeature_firstRow{
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+        padding-left:5px;
+        padding-top:1px;
+        
+    }
+    .CatagoryFeature_firstRow_clipPath{
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        background-color:#e0e7e2;
+        padding:10px;
+    }
+
+
+
+
+
+
+
+
+
+    .CatagoryTwo_two_Mian_secondRow{
+        height:60%;
+        width:100%;
+        display:flex;
+        justify-content:space-around;
+        align-items:center;
+
+        flex-direction:row;
+        flex-wrap:wrap;
+
+    }
+    .CatagoryTwo_three{
+        height:20%;
+        width:100%;
+  
+        display:flex;
+        justify-content:center;
+        align-items:center;
+    }
+}
+/*------ Mobile view -----------*/
+@media ( max-width:600px) {
+
+
+    .CatagoryTwo{
+        height:140vh;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        font-family: 'Noto Serif Bengali', sans-serif;
+    }
+
+    .CatagoryTwo_one{
+        height:20%;
+        width:100%;
+
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        gap:2vh;
+        font-family: 'Noto Serif Bengali', sans-serif;
+        text-align:center;
+      
+
+    }
+    .CatagoryTwo_one_p{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+
+    }
+    .CatagoryTwo_two{
+        height:60%;
+        width:100%;
+ 
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        
+    }
+
+    .CatagoryTwo_two_Mian{
+        height:90%;
+        width:90%;
+  
+    }
+    .CatagoryTwo_two_Mian_firstRow{
+        height:60%;
+        width:100%;
+        display:flex;
+        justify-content:space-around;
+        align-items:center;
+  
+        flex-direction:row;
+        flex-wrap:wrap;
+
+    }
+
+/*----------- cartagory feature section --------*/ 
+    .CatagoryFeature{
+        height:40%;
+        width:40%;
+      
+        display:flex;
+        flex-direction:column;
+        gap:2vh;
+        border-radius:5px;
+        padding:2px;
+
+    }
+
+    .CatagoryFeature:hover {
+        color:#14923e;
+    }
+    .CatagoryFeature:hover .CatagoryFeature_firstRow_clipPath {
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        background-color:#14923e;
+        padding:10px;
+        color:white;
+    }
+    .CatagoryFeature_firstRow{
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+        padding-left:5px;
+        padding-top:1px;
+        
+    }
+    .CatagoryFeature_firstRow_clipPath{
+        clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+        background-color:#e0e7e2;
+        padding:10px;
+    }
+
+
+
+
+
+
+
+
+
+    .CatagoryTwo_two_Mian_secondRow{
+        height:60%;
+        width:100%;
+        display:flex;
+        justify-content:space-around;
+        align-items:center;
+    
+        flex-direction:row;
+        flex-wrap:wrap;
+
+    }
+    .CatagoryTwo_three{
+        height:20%;
+        width:100%;
+   
+        display:flex;
+        justify-content:center;
+        align-items:center;
+    }
+
+}

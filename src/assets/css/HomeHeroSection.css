@@ -1,0 +1,543 @@
+/*------- Dextop --------*/
+@media (min-width:1200px) {
+.HomeHeroSection{
+    height:90vh;
+    width:100%;
+    background-image:url('../images/Dark Green Modern Isra Miraj Banner (2).png') ;
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: #000000;
+  overflow:hidden;
+  font-family: 'Noto Serif Bengali', sans-serif;
+
+}
+
+.HomeHeroSection_Sub{
+    height:90vh;
+    width:100%;
+    padding:0;
+    margin:0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
+
+.HomeHeroSection_Sub_left{
+    height:100%;
+    width:50%;
+  
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    gap:4vh;
+    font-family: 'Noto Serif Bengali', sans-serif;
+    
+}
+
+.HomeHeroSection_Sub_left_three_Main{
+    height:100%;
+    width:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border:1px solid black;
+    padding-left:15px;
+    padding-right:15px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius:10px;
+    gap:5vw;
+
+    background-color:white;
+    
+}
+
+.HomeHeroSection_Sub_left_three_Main_input input {
+    outline: none;
+}
+
+.HomeHeroSection_Sub_left_four{
+    height:30%;
+    width:40%;
+   
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+   
+    
+}
+.heroCarosuleIteam1{
+    display:flex;
+    justify-content:center;
+    gap:2vh;
+    align-items:start;
+    flex-direction:column;
+}
+
+
+
+
+
+
+
+
+
+
+.HomeHeroSection_Sub_right{
+height:100%;
+width:50%;
+display:flex;
+justify-content:center;
+align-items:center;
+
+}
+}
+
+/*----- Laptop View -------*/
+@media (min-width:993px) and (max-width:1199px) {
+
+    .HomeHeroSection{
+        height:90vh;
+        width:100%;
+        background-image:url('../images/Dark Green Modern Isra Miraj Banner (2).png') ;
+        background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-color: #000000;
+      overflow:hidden;
+      font-family: 'Noto Serif Bengali', sans-serif;
+    
+    }
+    
+    .HomeHeroSection_Sub{
+        height:90vh;
+        width:100%;
+        padding:0;
+        margin:0;
+        background-color: rgba(0, 0, 0, 0.5);
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+    }
+    
+    .HomeHeroSection_Sub_left{
+        height:100%;
+        width:50%;
+      
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        gap:4vh;
+        font-family: 'Noto Serif Bengali', sans-serif;
+        
+    }
+    
+    .HomeHeroSection_Sub_left_three_Main{
+        height:100%;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        border:1px solid black;
+        padding-left:15px;
+        padding-right:15px;
+        padding-top:10px;
+        padding-bottom:10px;
+        border-radius:10px;
+        gap:5vw;
+    
+        background-color:white;
+        
+    }
+    
+    .HomeHeroSection_Sub_left_three_Main_input input {
+        outline: none;
+    }
+    
+    .HomeHeroSection_Sub_left_four{
+        height:30%;
+        width:40%;
+       
+    
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+       
+        
+    }
+    .heroCarosuleIteam1{
+        display:flex;
+        justify-content:center;
+        gap:2vh;
+        align-items:start;
+        flex-direction:column;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .HomeHeroSection_Sub_right{
+    height:100%;
+    width:50%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+    }
+
+
+}
+
+/*----------Big  tablet view --------*/
+@media (min-width:769px) and (max-width:992px)  {
+
+
+
+    .HomeHeroSection{
+        height:90vh;
+        width:100%;
+        background-image:url('../images/Dark Green Modern Isra Miraj Banner (2).png') ;
+        background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-color: #000000;
+      overflow:hidden;
+      font-family: 'Noto Serif Bengali', sans-serif;
+    
+    }
+    
+    .HomeHeroSection_Sub{
+        height:90vh;
+        width:100%;
+        padding:0;
+        margin:0;
+        background-color: rgba(0, 0, 0, 0.5);
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+    }
+    
+    .HomeHeroSection_Sub_left{
+        height:100%;
+        width:50%;
+      
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        gap:4vh;
+        font-family: 'Noto Serif Bengali', sans-serif;
+        font-size:1rem;
+        
+    }
+      
+    .HomeHeroSection_Sub_left_three_Main{
+        height:100%;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        border:1px solid black;
+        padding-left:15px;
+        padding-right:15px;
+        padding-top:10px;
+        padding-bottom:10px;
+        border-radius:10px;
+        gap:5vw;
+    
+        background-color:white;
+        
+    }
+    
+    .HomeHeroSection_Sub_left_three_Main_input input {
+        outline: none;
+    }
+    
+    .HomeHeroSection_Sub_left_four{
+        height:30%;
+        width:40%;
+       
+    
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        font-size:10px;
+       
+        
+    }
+    .heroCarosuleIteam1{
+        display:flex;
+        justify-content:center;
+        gap:2vh;
+        align-items:start;
+        flex-direction:column;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .HomeHeroSection_Sub_right{
+    height:100%;
+    width:50%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+    }
+
+    .HeroRightImage{
+        height:20rem;
+        width:15rem;
+    }
+
+
+
+
+
+
+}
+/*---------- tablet -----------*/
+@media (min-width:601px) and (max-width:768px) {
+
+    .HomeHeroSection{
+        height:130vh;
+        width:100%;
+        background-image:url('../images/Dark Green Modern Isra Miraj Banner (2).png') ;
+        background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-color: #000000;
+      overflow:hidden;
+      font-family: 'Noto Serif Bengali', sans-serif;
+    
+    }
+    
+    .HomeHeroSection_Sub{
+        height:130vh;
+        width:100%;
+        padding:0;
+        margin:0;
+        background-color: rgba(0, 0, 0, 0.5);
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+        flex-direction:column;
+    }
+    
+    .HomeHeroSection_Sub_left{
+        height:100%;
+        width:50%;
+      
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        gap:4vh;
+        font-family: 'Noto Serif Bengali', sans-serif;
+        font-size:1rem;
+        
+    }
+      
+    .HomeHeroSection_Sub_left_three_Main{
+        height:100%;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        border:1px solid black;
+        padding-left:15px;
+        padding-right:15px;
+        padding-top:10px;
+        padding-bottom:10px;
+        border-radius:10px;
+        gap:5vw;
+    
+        background-color:white;
+        
+    }
+    
+    .HomeHeroSection_Sub_left_three_Main_input input {
+        outline: none;
+    }
+    
+    .HomeHeroSection_Sub_left_four{
+        height:30%;
+        width:40%;
+       
+    
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+       
+        
+    }
+    .heroCarosuleIteam1{
+        display:flex;
+        justify-content:center;
+        gap:2vh;
+        align-items:start;
+        flex-direction:column;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .HomeHeroSection_Sub_right{
+    height:100%;
+    width:50%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+    }
+
+    .HeroRightImage{
+        height:20rem;
+        width:15rem;
+    }
+
+
+
+}
+/*------ Mobile view -----------*/
+@media ( max-width:600px) {
+    .HomeHeroSection{
+        height:auto!important;
+        min-height:100vh;
+        width:100%;
+        background-image:url('../images/Dark Green Modern Isra Miraj Banner (2).png') ;
+        background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background-color: #000000;
+      overflow:hidden;
+      font-family: 'Noto Serif Bengali', sans-serif;
+    
+    }
+    
+    .HomeHeroSection_Sub{
+        height:100vh;
+        width:100%;
+        padding:0;
+        margin:0;
+        background-color: rgba(0, 0, 0, 0.5);
+        display:flex;
+        justify-content:space-between;
+        align-items:center;
+        flex-direction:column;
+    }
+    
+    .HomeHeroSection_Sub_left{
+        height:100%;
+        width:50%;
+      
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        gap:4vh;
+        font-family: 'Noto Serif Bengali', sans-serif;
+        font-size:1rem;
+        text-align:center;
+        
+    }
+      
+    .HomeHeroSection_Sub_left_three_Main{
+        height:100%;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        border:1px solid black;
+        padding-left:15px;
+        padding-right:15px;
+        padding-top:10px;
+        padding-bottom:10px;
+        border-radius:10px;
+        gap:5vw;
+    
+        background-color:white;
+        
+    }
+    
+    .HomeHeroSection_Sub_left_three_Main_input input {
+        outline: none;
+    }
+    
+    .HomeHeroSection_Sub_left_four{
+        height:30%;
+        width:40%;
+       
+    
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+       
+        
+    }
+    .heroCarosuleIteam1{
+        display:flex;
+        justify-content:center;
+        gap:2vh;
+        align-items:start;
+        flex-direction:column;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .HomeHeroSection_Sub_right{
+    height:100%;
+    width:50%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+    }
+
+    .HeroRightImage{
+        height:20rem;
+        width:15rem;
+    }
+
+
+}

@@ -1,0 +1,250 @@
+@media (min-width:1200px) {
+    .Banner{
+        height:60vh;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        font-family: 'Noto Serif Bengali', sans-serif;
+    }
+
+    .Banner_sub{
+        height:70%;
+        width:70%;
+
+        display:flex;
+        justify-content:center;
+        align-items:center;
+      color:white;
+      background-image:url('../images/Dark Green Modern Isra Miraj Banner (4).png') ;
+      background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    background-color: #000000;
+    border-radius:8px;
+    
+    }
+
+   
+
+    .BannerHadis{
+        height:50%;
+       
+        display:flex;
+
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        gap:5vh;
+        text-align:center;
+        padding:15px;
+     
+    }
+    .swiper-horizontal > .swiper-pagination-bullets.swiper-pagination-bullets-dynamic, .swiper-pagination-horizontal.swiper-pagination-bullets.swiper-pagination-bullets-dynamic{
+        bottom:0;
+    }
+}
+
+
+/*----- Laptop View -------*/
+@media (min-width:993px) and (max-width:1199px) {
+    .Banner{
+        height:60vh;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        font-family: 'Noto Serif Bengali', sans-serif;
+    }
+
+    .Banner_sub{
+        height:70%;
+        width:70%;
+
+        display:flex;
+        justify-content:center;
+        align-items:center;
+      color:white;
+      background-image:url('../images/Dark Green Modern Isra Miraj Banner (4).png') ;
+      background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    background-color: #000000;
+    border-radius:8px;
+    
+    }
+
+   
+
+    .BannerHadis{
+        height:50%;
+       
+        display:flex;
+
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        gap:5vh;
+        text-align:center;
+        padding:15px;
+     
+    }
+    .swiper-horizontal > .swiper-pagination-bullets.swiper-pagination-bullets-dynamic, .swiper-pagination-horizontal.swiper-pagination-bullets.swiper-pagination-bullets-dynamic{
+        bottom:0;
+    }
+}
+
+/*----------Big  tablet view --------*/
+@media (min-width:769px) and (max-width:992px) {
+    .Banner{
+        height:60vh;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        font-family: 'Noto Serif Bengali', sans-serif;
+    }
+
+    .Banner_sub{
+        height:70%;
+        width:70%;
+
+        display:flex;
+        justify-content:center;
+        align-items:center;
+      color:white;
+      background-image:url('../images/Dark Green Modern Isra Miraj Banner (4).png') ;
+      background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    background-color: #000000;
+    border-radius:8px;
+    
+    }
+
+   
+
+    .BannerHadis{
+        height:50%;
+      
+       
+        display:flex;
+
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        gap:5vh;
+        text-align:center;
+        padding:15px;
+        font-size:13px;
+     
+    }
+    .swiper-horizontal > .swiper-pagination-bullets.swiper-pagination-bullets-dynamic, .swiper-pagination-horizontal.swiper-pagination-bullets.swiper-pagination-bullets-dynamic{
+        bottom:0;
+    }
+}
+/*---------- tablet -----------*/
+@media (min-width:601px) and (max-width:768px) {
+    .Banner{
+        height:60vh;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        font-family: 'Noto Serif Bengali', sans-serif;
+    }
+
+    .Banner_sub{
+        height:70%;
+        width:70%;
+
+        display:flex;
+        justify-content:center;
+        align-items:center;
+      color:white;
+      background-image:url('../images/Dark Green Modern Isra Miraj Banner (4).png') ;
+      background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    background-color: #000000;
+    border-radius:8px;
+    
+    }
+
+   
+
+    .BannerHadis{
+        height:50%;
+      
+       
+        display:flex;
+
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        gap:5vh;
+        text-align:center;
+        padding:15px;
+        font-size:13px;
+     
+    }
+    .swiper-horizontal > .swiper-pagination-bullets.swiper-pagination-bullets-dynamic, .swiper-pagination-horizontal.swiper-pagination-bullets.swiper-pagination-bullets-dynamic{
+        bottom:0;
+    }
+}
+/*------ Mobile view -----------*/
+@media ( max-width:600px) {
+
+    .Banner{
+        height:60vh;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        font-family: 'Noto Serif Bengali', sans-serif;
+    }
+
+    .Banner_sub{
+        height:70%;
+        width:70%;
+
+        display:flex;
+        justify-content:center;
+        align-items:center;
+      color:white;
+      background-image:url('../images/Dark Green Modern Isra Miraj Banner (4).png') ;
+      background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    background-color: #000000;
+    border-radius:8px;
+    
+    }
+
+   
+
+    .BannerHadis{
+        height:50%;
+      
+       
+        display:flex;
+
+        justify-content:center;
+        align-items:center;
+        flex-direction:column;
+        gap:5vh;
+        text-align:center;
+        padding:15px;
+        font-size:13px;
+     
+    }
+    .swiper-horizontal > .swiper-pagination-bullets.swiper-pagination-bullets-dynamic, .swiper-pagination-horizontal.swiper-pagination-bullets.swiper-pagination-bullets-dynamic{
+        bottom:0;
+    }
+
+}

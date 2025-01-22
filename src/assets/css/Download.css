@@ -1,0 +1,378 @@
+@media (min-width:1200px) {
+
+
+.Download{
+    height:90vh;
+    width:100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-family: 'Noto Serif Bengali', sans-serif;
+    overflow:hidden;
+
+    
+}
+
+.Download_Sub{
+   height:60%;
+   width:70%;
+
+   background-image: linear-gradient(to right top, #bdd4e5, #a5cceb, #8ec3f2, #78b9f9, #64aeff);
+   border-radius:15px;
+   display:flex;
+   justify-content:center;
+   align-items:center;
+}
+
+.Download_Sub_one{
+    height:100%;
+    width:50%;
+
+    display:flex;
+    justify-content:center;
+    align-items:start;
+    padding-left:5vw;
+    gap:2vh;
+    flex-direction:column;
+}
+
+.Download_Sub_one_three{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    gap:1vw;
+}
+.Download_Sub_two{
+    height:100%;
+    width:50%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+
+
+
+
+
+
+
+
+
+
+}
+
+
+/*----- Laptop View -------*/
+@media (min-width:993px) and (max-width:1199px) {
+
+
+    .Download{
+        height:90vh;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        font-family: 'Noto Serif Bengali', sans-serif;
+        overflow:hidden;
+    
+        
+    }
+    
+    .Download_Sub{
+       height:60%;
+       width:70%;
+    
+       background-image: linear-gradient(to right top, #bdd4e5, #a5cceb, #8ec3f2, #78b9f9, #64aeff);
+       border-radius:15px;
+       display:flex;
+       justify-content:center;
+       align-items:center;
+    }
+    
+    .Download_Sub_one{
+        height:100%;
+        width:50%;
+    
+        display:flex;
+        justify-content:center;
+        align-items:start;
+        padding-left:5vw;
+        gap:2vh;
+        flex-direction:column;
+    }
+    
+    .Download_Sub_one_three{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        gap:1vw;
+    }
+    .Download_Sub_two{
+        height:100%;
+        width:50%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+    
+    }
+    
+    
+
+
+
+
+
+
+}
+
+/*----------Big  tablet view --------*/
+@media (min-width:769px) and (max-width:992px) {
+
+
+
+    .Download{
+        height:90vh;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        font-family: 'Noto Serif Bengali', sans-serif;
+        overflow:hidden;
+    
+        
+    }
+    
+    .Download_Sub{
+       height:60%;
+       width:85%;
+    
+       background-image: linear-gradient(to right top, #bdd4e5, #a5cceb, #8ec3f2, #78b9f9, #64aeff);
+       border-radius:15px;
+       display:flex;
+       justify-content:center;
+       align-items:center;
+    }
+    
+    .Download_Sub_one{
+        height:100%;
+        width:50%;
+    
+        display:flex;
+        justify-content:center;
+        align-items:start;
+        padding-left:5vw;
+        gap:2vh;
+        flex-direction:column;
+    }
+    
+    .Download_Sub_one_three{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        gap:1vw;
+    }
+    .Download_Sub_two{
+        height:100%;
+        width:50%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+    
+    }
+    
+    
+
+
+
+
+
+
+
+
+}
+/*---------- tablet -----------*/
+@media (min-width:601px) and (max-width:768px) {
+
+
+    .Download{
+        height:90vh;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        font-family: 'Noto Serif Bengali', sans-serif;
+        overflow:hidden;
+    
+        
+    }
+    
+    .Download_Sub{
+       height:60%;
+       width:85%;
+    
+       background-image: linear-gradient(to right top, #bdd4e5, #a5cceb, #8ec3f2, #78b9f9, #64aeff);
+       border-radius:15px;
+       display:flex;
+       justify-content:center;
+       align-items:center;
+    }
+    
+    .Download_Sub_one{
+        height:100%;
+        width:50%;
+    
+        display:flex;
+        justify-content:center;
+        align-items:start;
+        padding-left:5vw;
+        gap:2vh;
+        flex-direction:column;
+    }
+    
+    .Download_Sub_one_three{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        gap:1vw;
+    }
+    .Download_Sub_two{
+        height:100%;
+        width:50%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+    
+    }
+    
+    
+
+
+
+
+
+}
+/*------ Mobile view -----------*/
+@media ( max-width:600px) {
+
+    .Download{
+        height:95vh;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        font-family: 'Noto Serif Bengali', sans-serif;
+        overflow:hidden;
+    
+        
+    }
+    
+    .Download_Sub{
+       height:60%;
+       width:85%;
+    
+       background-image: linear-gradient(to right top, #bdd4e5, #a5cceb, #8ec3f2, #78b9f9, #64aeff);
+       border-radius:15px;
+       display:flex;
+       justify-content:center;
+       align-items:center;
+    }
+    
+    .Download_Sub_one{
+        height:100%;
+        width:50%;
+    
+        display:flex;
+        justify-content:center;
+        align-items:start;
+        padding-left:5vw;
+        gap:2vh;
+        flex-direction:column;
+    }
+    
+    .Download_Sub_one_three{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        gap:1vw;
+    }
+    .Download_Sub_two{
+        height:100%;
+        width:50%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+    
+    }
+    
+
+}
+
+
+
+
+/*------ Very small Devices */
+
+@media (max-width:480px) {
+
+
+
+    .Download{
+        height:120vh;
+        width:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        font-family: 'Noto Serif Bengali', sans-serif;
+        overflow:hidden;
+        
+    
+        
+    }
+    
+    .Download_Sub{
+       height:80%;
+       width:85%;
+    
+       background-image: linear-gradient(to right top, #bdd4e5, #a5cceb, #8ec3f2, #78b9f9, #64aeff);
+       border-radius:15px;
+       display:flex;
+       justify-content:center;
+       align-items:center;
+       flex-direction:column;
+    }
+    
+    .Download_Sub_one{
+        height:100%;
+        width:50%;
+    
+        display:flex;
+        justify-content:center;
+        align-items:start;
+        padding-left:5vw;
+        gap:2vh;
+        flex-direction:column;
+    }
+    
+    .Download_Sub_one_three{
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        gap:1vw;
+    }
+    .Download_Sub_two{
+        height:100%;
+        width:50%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+    
+    }
+
+
+
+
+
+
+
+}
